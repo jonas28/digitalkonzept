@@ -1,6 +1,5 @@
 -# Services
 Hier zeige ich euch Services, die das Leben für Konzepte leichter machen.
-
 # Karten
 ## Google Maps Api
 ## Mapbox
