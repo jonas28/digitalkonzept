@@ -6,6 +6,8 @@ Hier zeige ich euch Tools, die ich als Konzepter benutze.
 
 # Writer Pro
 
+# Hemmingway
+
 # Sublime Text 
 
 # Deckset
@@ -37,4 +39,10 @@ Hier zeige ich euch Tools, die ich als Konzepter benutze.
 # Dropbox
 
 # Google Docs
+
+# Feedly
+
+# Pocket
+
+# Evernote
 
