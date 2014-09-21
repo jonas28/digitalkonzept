@@ -8,6 +8,8 @@
 
 ## Design Thinking
 
+### Customer Journey 
+
 ### Personas
 
 ### Rapid Prototyping
