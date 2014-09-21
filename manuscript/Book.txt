@@ -1,6 +1,5 @@
 einleitung.md
-grundlagen.md
-methoden.md
+GrundlagenUndMethoden.md
 redaktionskonzept.md
 tools.md
 services.md
