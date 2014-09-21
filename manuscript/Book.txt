@@ -1,4 +1,6 @@
 einleitung.md
+grundlagen.md
+methoden.md
 tools.md
 services.md
 learnToCode.md
