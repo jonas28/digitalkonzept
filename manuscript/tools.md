@@ -30,6 +30,8 @@ Hier zeige ich euch Tools, die ich als Konzepter benutze.
 
 # Pingendo
 
+# Photoshop CC
+
 # Moom
 
 # Copyless
@@ -46,3 +48,8 @@ Hier zeige ich euch Tools, die ich als Konzepter benutze.
 
 # Evernote
 
+# Facebook Ad Manager
+
+# Facebook Audience Insights
+
+# Google Keyword Planner

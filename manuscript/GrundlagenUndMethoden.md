@@ -8,4 +8,10 @@
 
 ## Design Thinking
 
+### Personas
+
+### Rapid Prototyping
+
 ## Reverse Engineering
+
+## Gamification
