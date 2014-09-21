@@ -1,8 +1,8 @@
-einleitung.md
+Einleitung.md
 GrundlagenUndMethoden.md
-redaktionskonzept.md
-tools.md
-services.md
-learnToCode.md
-inspiration.md
-BuchTipps.md
+Redaktionskonzept.md
+Anzeigen.md
+Tools.md
+Services.md
+LearnToCode.md
+Inspiration.md
