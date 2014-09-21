@@ -1,17 +1,17 @@
-# Grundlagen & Methoden
+-# Grundlagen & Methoden
 
-## Agiles Vorgehen
+# Agiles Vorgehen
 
-### Scrum
+# Scrum
 
-### Lean Startup
+## Lean Startup
 
-## Design Thinking
+# Design Thinking
 
-### Personas
+## Personas
 
-### Rapid Prototyping
+## Rapid Prototyping
 
-## Reverse Engineering
+# Reverse Engineering
 
-## Gamification
+# Gamification
