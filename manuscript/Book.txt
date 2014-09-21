@@ -1,6 +1,8 @@
 einleitung.md
 grundlagen.md
 methoden.md
+redaktionskonzept.md
 tools.md
 services.md
 learnToCode.md
+inspiration.md
