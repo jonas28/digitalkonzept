@@ -17,3 +17,7 @@
 # Reverse Engineering
 
 # Gamification
+
+# das Innere Konzeptteam
+
+Ähnlich wie Disney-Methode: der Visionäre, der Praktiker, der Kritiker (vgl schreibdiletanten)
