@@ -12,6 +12,16 @@
 
 ## Personas
 
+## Reissprofile
+
+## RB Profiler
+
+## Interview 
+
+## 5x Warum 
+
+## Shadowing
+
 ## Customer Journey
 
 ## Rapid Prototyping
