@@ -64,9 +64,11 @@ Hier zeige ich euch Tools, die ich als Konzepter benutze.
 
 # ubermetrics
 
+# klout
+
 # Trello 
 
-# Wunderlisr
+# Wunderlist
 
 # Asana
 
