@@ -16,6 +16,8 @@
 
 ## RB Profiler
 
+# Umfrage 
+
 ## Interview 
 
 ## 5x Warum 
@@ -30,7 +32,7 @@
 
 # Gamification
 
-# das Innere Konzeptteam
+# Zusammen ist man weniger allein: Das Innere Konzeptteam
 
 Ähnlich wie Disney-Methode: der Visionäre, der Praktiker, der Kritiker (vgl schreibdiletanten)
 
