@@ -59,3 +59,11 @@ Hier zeige ich euch Tools, die ich als Konzepter benutze.
 # Facebook Audience Insights
 
 # Google Keyword Planner
+
+# Trello 
+
+# Wunderlisr
+
+# Asana
+
+# Basecamp
