@@ -6,8 +6,6 @@
 
 # Userstories
 
-## Lean Startup
-
 # Design Thinking
 
 ## Personas
@@ -28,9 +26,17 @@
 
 ## Rapid Prototyping
 
+## Lean Startup
+
+## MVP
+
+## MDP
+
 # Reverse Engineering
 
 # Gamification
+
+# MVC
 
 # Zusammen ist man weniger allein: Das Innere Konzeptteam
 
