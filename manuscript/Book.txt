@@ -1,4 +1,5 @@
 Einleitung.md
+autor.md
 GrundlagenUndMethoden.md
 Redaktionskonzept.md
 Anzeigen.md
