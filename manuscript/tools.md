@@ -32,6 +32,12 @@ Hier zeige ich euch Tools, die ich als Konzepter benutze.
 
 # Photoshop CC
 
+# Invision
+
+# briefscase
+
+# Pop
+
 # Moom
 
 # Copyless
@@ -46,6 +52,8 @@ Hier zeige ich euch Tools, die ich als Konzepter benutze.
 
 # Pocket
 
+# instapaper
+
 # Evernote
 
 # Facebook Ad Manager
@@ -53,3 +61,23 @@ Hier zeige ich euch Tools, die ich als Konzepter benutze.
 # Facebook Audience Insights
 
 # Google Keyword Planner
+
+# social Bench
+
+# ubermetrics
+
+# Questfox
+
+# surveymonkex
+
+# Google Tabellen Formulare
+
+# klout
+
+# Trello 
+
+# Wunderlist
+
+# Asana
+
+# Basecamp
