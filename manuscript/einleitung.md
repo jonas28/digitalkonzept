@@ -10,6 +10,11 @@ keine Berührungsängste mit Technik, den späteren User im Fokus, Think big - s
 Teilt eure Ideen und eure Kompetenzen!
 Don’t be evil: Überlegt euch für wen ihr arbeitet: Nutzt eure Fähigkeiten nicht um Menschen zu verarschen, sondern eher um Unternehmen zu verändern.
 
+# Beispiele
+Wir werden im Rahmen des Buches ein Digitalkonzept für einen Weinhändler erarbeiten. 
+
+## Unser fiktiver Kunde 
+Ein Online-Weinhändler bietet Curated Shopping für Weine an – das bedeutet, Kunden bekommen nicht ein großes Angebot an Weinen, sondern eine besondere, eben “kuratierte” Auswahl. Der Händler präsentiert auf der Website pro Woche zehn neue Weine, die von Weinexperten ausgewählt werden. Der Weinhändler will Digital Natives erreichen. 
 
 
 ## Github
