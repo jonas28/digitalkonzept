@@ -6,6 +6,8 @@ Hier zeige ich euch Services, die das Leben für Konzepte leichter machen.
 
 # Landingpages
 ## Hubspot
+## Startup Framework von designmodo
+http://designmodo.com/startup
 
 # A/B Testing
 ## Optimizely

@@ -47,8 +47,12 @@ Alan Cooper beschreibt 1998 in “The Inmates Are Running the Asylum” zum erst
 ### Frage: Aber wie erfahren wir was Sandra möchte?
 
 ## Reissprofile
+Was motiviert meine Nutzer?
 
 ## RB Profiler
+Je mehr das Wertesystem eines Menschen mit dem wahrgenommen Wertesystem einer Marke übereinstimmt, desto wahrscheinlicher und intensiver wird diese Marke konsumiert. 
+
+Prozessmodell der ganzheitlichen Markenführung nach Roland Berger
 
 # Umfrage 
 
@@ -57,6 +61,7 @@ Alan Cooper beschreibt 1998 in “The Inmates Are Running the Asylum” zum erst
 ## 5x Warum 
 
 ## Shadowing
+{{++ Hinzufügen Plannering, die Katzen verfolgt hat++}}
 
 ## Mehrwerte schafften
 Goldrichtig: wenn die Kommunikation mit einer Marke wertvoll für den Kunden ist und dessen Probleme löst.
@@ -104,6 +109,16 @@ Hierfür kommt Kanal A zum Einsatz.
 Lean Startup thematisiert wie man lernen kann, was Kunden wirklichen wollen und wie man seine Idee kontinuierlich testet und anpasst.
 
 Build, Measure, Learn
+
+{{++ Hinzufügen: The Oregon Experiment.  Erst Rasen sähen und gucken wo die Menschen gehen, dann dort einen Weg bauen. ++}}
+
+### Hypothesen aufstellen
+
+### Hypothesen überprüfen
+
+## Businessmodel Canvas
+Das Business Modell Canvas eignet sich hervorragend, um Geschäftsmodelle zu visualisieren. Trotzdem ist das Werkzeug nicht nur etwas für BWLer. Als Konzepter kann man es nutzen, um sein Konzept ganzheitlich zu betrachten.  
+ 
 
 ## MVP
 

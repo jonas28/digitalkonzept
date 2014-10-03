@@ -2,6 +2,15 @@
 
 Was sollte man als Digitalkonzepter beachten? Dieses Buch bietet eine praxisorientiertes Einführung: Grundlagen in Konzeption, Bestpratices, Tools & Checklisten.
 
+# Es gibt nicht die eine richtige Methode
+{{++ Einfügen Zitat von Steven King ++}}
+"So mache ich es... keine Ahnung, ob ich dir helfen kann."
+
+Ich werde hier Methoden zeigen, die mir beim Konzepten helfen. Das heißt aber nicht, dass es nur auf meine Art funktioniert. Denn kein Projekt ist gleich und dementsprechend sind auch häufig unterschiedliche Herrangehensweisen notwendig. 
+
+{{++ Einfügen Zitat von Steven King ++}}
+"So ist es nun mal, akzeptier es!"
+
 # Erwartungen
 Ich habe neulich einen Vortrag an der JvM Academy gehalten und wurde gefragt, was ich von einem Konzepte erwarte. Wenn ich persönlich einen Konzepte einstelle, erwarte ich folgendes:
 

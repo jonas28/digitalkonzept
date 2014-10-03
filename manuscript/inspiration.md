@@ -24,6 +24,5 @@ Auf [Pitchenvy](http://www.pitchenvy.com/) ist eine Pitchdecks von Startup.
 ## Buchtipps
 ### Lean Startup
 ### Primal Branding
-
 ### Start with why
 
