@@ -28,4 +28,7 @@ Ein Online-Weinhändler bietet Curated Shopping für Weine an – das bedeutet, 
 
 ## Github
 Dieses Buch entsteht auf Github und deshalb kann man alle [Änderungen](https://github.com/jonas28/digitalkonzept/commits/master) mitverfolgen.
-Und natürlich kann man auch mitmachen. Github bietet die Möglichkeit sich an Inhaltes zu beteiligen.
+Und natürlich kann man auch mitmachen. Github bietet die Möglichkeit sich an Inhalten zu beteiligen.
+
+### Github Pull Requests
+Wenn ihr möchtet, dass ich eine bestimmte Änderung in der Buch aufnehme, könnt ihr ein Pullrequest bei Github stellen.
