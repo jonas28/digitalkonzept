@@ -25,10 +25,20 @@ Wir werden im Rahmen des Buches ein Digitalkonzept für einen Weinhändler erarb
 ## Unser fiktiver Kunde 
 Ein Online-Weinhändler bietet Curated Shopping für Weine an – das bedeutet, Kunden bekommen nicht ein großes Angebot an Weinen, sondern eine besondere, eben “kuratierte” Auswahl. Der Händler präsentiert auf der Website pro Woche zehn neue Weine, die von Weinexperten ausgewählt werden. Der Weinhändler will Digital Natives erreichen. 
 
+# Muss ich als Konzepter programmieren können?
+Ich versuche diese Frage einfach mal mit zwei Gegenfragen zu beantwortet: 
+- Findest du, dass ein Architekt ein Gebäude selber Mauern sollte? 
+- Findest du, dass ein Architekt Ahnung von Statik haben sollte?
 
-## Github
+Ein Architekt ist einem Digitalkonzepter recht ähnlich. Die Architektur beschäftigt sich mit der Planung, dem Entwerfen und der Gestaltung von allen möglichen Bauwerken. Und wir Planen, Entwerfen und Gestalten alle Möglichen Digitalen Produkte.
+
+Die möglichen Studienfächer im Rahmen einen Architekturstudiums: Entwerfen, Darstellungstechnik, Gebäudekunde, Geschichte der Architektur bzw. Bau- und Kunstgeschichte, Architekturtheorie, Baukonstruktion, Baumanagement, Bauchemie oder Baustoffkunde, Bauphysik, Haustechnik, Tragwerkslehre oder Baustatik im Bereich Betonbau, Holzbau, Stahlbau, sowie Städtebau und Bauleitplanung, Baurecht, Freiraum- und Landschaftsplanung oder auch Innenraumplanung.
+
+{{++ Vgl. Gebäude entwerfen: Grundlagen, Methoden, Arbeitshilfen: http://www.amazon.de/Gebäude-entwerfen-Grundlagen-Methoden-Arbeitshilfen/dp/3421036675/ ++}}
+
+# Github
 Dieses Buch entsteht auf Github und deshalb kann man alle [Änderungen](https://github.com/jonas28/digitalkonzept/commits/master) mitverfolgen.
 Und natürlich kann man auch mitmachen. Github bietet die Möglichkeit sich an Inhalten zu beteiligen.
 
-### Github Pull Requests
+## Github Pull Requests
 Wenn ihr möchtet, dass ich eine bestimmte Änderung in der Buch aufnehme, könnt ihr ein Pullrequest bei Github stellen.
