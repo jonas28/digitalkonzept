@@ -186,6 +186,7 @@ Der verfügbare Platz im virtuellen Weinregal könnte künstlich verknappt werde
 
 Der verfügbare Platz im virtuellen Weinregal könnte künstlich verknappt werden. Zum Beispiel auf Platz für maximal 20 Flaschen. Um diesem virtuellen Gut auch einen Wert zu geben, kann man zusätzliche Regalfläche per In-App-Kauf anbieten. Für jeden Freund, den ein Nutzer zur Anwendung einlädt, bekommt er virtuelle Regalfläche gratis dazu. Schon hat der regelmäßige User einen sehr guten Grund, Freunde einzuladen.
 
+# Interactive Storytelling
 
 # MVC
 
