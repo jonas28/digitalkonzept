@@ -1,3 +1,4 @@
 # Scrum
 
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Curabitur blandit tempus porttitor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam id dolor id nibh ultricies vehicula ut id elit. Nulla vitae elit libero, a pharetra augue. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+## Planning Poker
+Warum dauert das so lang und warum kostet das soviel? Das denkt man sich als Konzepte ziemlich oft. Damit ihr und euer Team ein gegenseitiges Verständnis für die Aufwände bekommt eignet sich Planning Poker.

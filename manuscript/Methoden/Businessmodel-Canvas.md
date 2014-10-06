@@ -1,0 +1,2 @@
+# Businessmodel Canvas
+Das Business Modell Canvas eignet sich hervorragend, um Geschäftsmodelle zu visualisieren. Trotzdem ist das Werkzeug nicht nur etwas für BWLer. Als Konzepter kann man es nutzen, um sein Konzept ganzheitlich zu betrachten.  
