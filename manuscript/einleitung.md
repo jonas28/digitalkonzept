@@ -57,3 +57,6 @@ Und natürlich kann man auch mitmachen. Github bietet die Möglichkeit sich an I
 
 ## Github Pull Requests
 Wenn ihr möchtet, dass ich eine bestimmte Änderung in der Buch aufnehme, könnt ihr ein [Pullrequest bei Github](https://github.com/jonas28/digitalkonzept/pulls) stellen.
+
+## Github Forks
+Ihr könnt die Inhalte dieses Buches an Prozesse eures Unternehmens anpassen. Dazu müsst ihr einfach das Repository auf Github forken.
