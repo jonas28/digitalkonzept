@@ -1,8 +1,9 @@
+-# Einleitung
 # Einleitung
 
 Was sollte man als Digitalkonzepter beachten? Dieses Buch bietet eine praxisorientiertes Einführung: Grundlagen in Konzeption, Bestpratices, Tools & Checklisten.
 
-# Es gibt nicht die eine richtige Methode
+## Es gibt nicht die eine richtige Methode
 {{++ Einfügen Zitat von Steven King ++}}
 "So mache ich es... keine Ahnung, ob ich dir helfen kann."
 
@@ -11,7 +12,7 @@ Ich werde hier Methoden zeigen, die mir beim Konzepten helfen. Das heißt aber n
 {{++ Einfügen Zitat von Steven King ++}}
 "So ist es nun mal, akzeptier es!"
 
-# Erwartungen
+## Erwartungen
 Ich habe neulich einen Vortrag an der JvM Academy gehalten und wurde gefragt, was ich von einem Konzepte erwarte. Wenn ich persönlich einen Konzepte einstelle, erwarte ich folgendes:
 
 detektivische Neugier, Autodidaktisch, versucht Muster zu erkennen, bildet Hypothesen und versucht sie zu überprüfen. Niemand von uns weiß wie die Welt in 20 Jahren aussieht und was er macht, Wer sich stetig neu erfinden muss, sollte uneitel sein und den Mut haben immer wieder bei Null anzufangen, 
@@ -19,26 +20,26 @@ keine Berührungsängste mit Technik, den späteren User im Fokus, Think big - s
 Teilt eure Ideen und eure Kompetenzen!
 Don’t be evil: Überlegt euch für wen ihr arbeitet: Nutzt eure Fähigkeiten nicht um Menschen zu verarschen, sondern eher um Unternehmen zu verändern.
 
-# Beispiele
+## Beispiele
 Wir werden im Rahmen des Buches ein Digitalkonzept für einen Weinhändler erarbeiten. 
 
-## Unser fiktiver Kunde 
+### Unser fiktiver Kunde 
 Ein Online-Weinhändler bietet Curated Shopping für Weine an – das bedeutet, Kunden bekommen nicht ein großes Angebot an Weinen, sondern eine besondere, eben “kuratierte” Auswahl. Der Händler präsentiert auf der Website pro Woche zehn neue Weine, die von Weinexperten ausgewählt werden. Der Weinhändler will Digital Natives erreichen. 
 
-# Muss ich als Digital Konzepter programmieren können?
+## Muss ich als Digital Konzepter programmieren können?
 Ich versuche diese Frage einfach mal mit zwei Gegenfragen zu beantwortet: 
 - Findest du, dass ein Architekt ein Gebäude selber Mauern sollte? 
 - Findest du, dass ein Architekt Ahnung von Statik haben sollte?
 
 
-# Github
+## Github
 Dieses Buch entsteht auf Github und deshalb kann man alle [Änderungen](https://github.com/jonas28/digitalkonzept/commits/master) mitverfolgen.
 Und natürlich kann man auch mitmachen. Github bietet die Möglichkeit sich an Inhalten zu beteiligen.
 
-## Github Pull Requests
+### Github Pull Requests
 Wenn ihr möchtet, dass ich eine bestimmte Änderung in der Buch aufnehme, könnt ihr ein [Pullrequest bei Github](https://github.com/jonas28/digitalkonzept/pulls) stellen.
 
-## Github Forks
+### Github Forks
 Ihr könnt die Inhalte dieses Buches an Prozesse eures Unternehmens anpassen und einfache eine eigene Version erstellen. Dazu müsst ihr einfach das Repository auf Github forken.
 
 {{++ Recherchieren wie das Lizenztechnisch läuft. ++}}
