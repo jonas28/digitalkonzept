@@ -21,6 +21,7 @@ Methoden/Interactive-Storytelling.md
 Methoden/Lean-Publishing.md
 Methoden/Interviews.md
 Methoden/KPIs.md
+Methoden/Kill-your-Darlings.md
 Methoden/Lean.md
 Methoden/MVC.md
 Methoden/MVP.md
