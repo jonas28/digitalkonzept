@@ -1,8 +1,10 @@
 Einleitung.md
-Autor/Autoren.md
-Autor/Persona.md
-Autor/Praegende-Dinge.md
-Autor/Stationen.md
+Autoren/Autoren.md
+Autoren/Jonas/Persona.md
+Autoren/Jonas/Praegende-Dinge.md
+Autoren/Jonas/Stationen.md
+Autoren/Eva/Persona.md
+Autoren/Eva/Stationen.md
 Methoden/Methoden.md
 Methoden/Scrum.md
 Methoden/5-mal-Warum.md
@@ -33,6 +35,7 @@ Methoden/Umfragen.md
 Methoden/Userstories.md
 Methoden/Viral-Loop.md
 Methoden/inneres-Konzeptteam.md
+Tools/Tools.md
 Tools/Asana.md
 Tools/Balsamiq-Mockups.md
 Tools/Basecamp.md

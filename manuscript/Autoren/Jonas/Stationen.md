@@ -1,4 +1,4 @@
-# Stationen
+## Stationen
 
 - Studium: Erziehungswissenschaft, Geschichte, Soziologie
 - Freelancer: 3D Design & Webentwicklung
