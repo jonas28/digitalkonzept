@@ -1,8 +1,10 @@
 Einleitung.md
 Autoren/Autoren.md
+Autoren/Jonas/Jonas.md
 Autoren/Jonas/Persona.md
 Autoren/Jonas/Praegende-Dinge.md
 Autoren/Jonas/Stationen.md
+Autoren/Eva/Eva.md
 Autoren/Eva/Persona.md
 Autoren/Eva/Stationen.md
 Methoden/Methoden.md
