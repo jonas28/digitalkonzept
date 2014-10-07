@@ -2,6 +2,7 @@ Einleitung.md
 Autor/Persona.md
 Autor/Prägende-Dinge.md
 Autor/Stationen.md
+Methoden/Methoden.md
 Methoden/Scrum.md
 Methoden/5-mal-Warum.md
 Methoden/Agile.md
@@ -80,6 +81,7 @@ Tools/Google-Analytics.md
 Tools/Mailchimp
 Tools/Mandrill
 Tools/Hubspot.md
+Inspiration/Inspiration.md
 Inspiration/Dribble.md
 Inspiration/GoodUXBadUX.md
 Inspiration/Pitchenvy.md

@@ -1,3 +1,5 @@
+-#Coding
+
 # Muss ich als Digital Konzepter programmieren können?
 
 Stell dir vor, daß du einen Architekten beauftragst, ein Haus für dich zu bauen und dann stellst du fest, daß er auch das Fundament gießt und die Wände mauert? Klingt irgendwie komisch, oder? Wahrscheinlich wird er den Entwurf eher durch einen Bauunternehmer umsetzen lassen.  Vielleicht übernimmt der Architekt die Bauleitung, aber er wird aber wohl kaum selber mauern.
