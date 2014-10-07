@@ -1,7 +1,7 @@
 Einleitung.md
 Autor/Autoren.md
 Autor/Persona.md
-Autor/Prägende-Dinge.md
+Autor/Praegende-Dinge.md
 Autor/Stationen.md
 Methoden/Methoden.md
 Methoden/Scrum.md
