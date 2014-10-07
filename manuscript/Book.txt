@@ -12,6 +12,7 @@ Methoden/Scrum.md
 Methoden/5-mal-Warum.md
 Methoden/Agile.md
 Methoden/Businessmodel-Canvas.md
+Methoden/Brainstorming.md
 Methoden/Content-Excellence.md
 Methoden/Customer-Journey.md
 Methoden/Design-Thinking.md
