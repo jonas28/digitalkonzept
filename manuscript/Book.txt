@@ -16,6 +16,7 @@ Methoden/Lean.md
 Methoden/MVC.md
 Methoden/MVP.md
 Methoden/Mehrwerte.md
+Methoden/Personas.md
 Methoden/RB-Profiler.md
 Methoden/Rapid-Prototyping.md
 Methoden/Reissprofile.md

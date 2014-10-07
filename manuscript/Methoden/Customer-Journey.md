@@ -16,7 +16,7 @@ Phasen am Beispiel Urlaub:
 - Urlaub
 - Nachbereitung
 
-Findet Bedürfnisse, die eure Persona in den jeweiligen Phasen haben könnte und mit welchen Touchpoints die Marke,diese Bedürfnisse befriedigen könnte.
+Findet Bedürfnisse, die eure Persona in den jeweiligen Phasen haben könnte und mit welchen Touchpoints die Marke, diese Bedürfnisse befriedigen könnte.
 
 ### Elevator Pitch
 Für die Persona X,

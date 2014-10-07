@@ -25,31 +25,11 @@ Wir werden im Rahmen des Buches ein Digitalkonzept für einen Weinhändler erarb
 ## Unser fiktiver Kunde 
 Ein Online-Weinhändler bietet Curated Shopping für Weine an – das bedeutet, Kunden bekommen nicht ein großes Angebot an Weinen, sondern eine besondere, eben “kuratierte” Auswahl. Der Händler präsentiert auf der Website pro Woche zehn neue Weine, die von Weinexperten ausgewählt werden. Der Weinhändler will Digital Natives erreichen. 
 
-# Muss ich als Konzepter programmieren können?
+# Muss ich als Digital Konzepter programmieren können?
 Ich versuche diese Frage einfach mal mit zwei Gegenfragen zu beantwortet: 
 - Findest du, dass ein Architekt ein Gebäude selber Mauern sollte? 
 - Findest du, dass ein Architekt Ahnung von Statik haben sollte?
 
-Stell dir vor, daß du einen Architekten beauftragst, ein Haus für dich zu bauen und dann stellst du fest, daß er auch das Fundament gießt und die Wände mauert? Klingt irgendwie komisch, oder? Wahrscheinlich wird er den Entwurf eher durch einen Bauunternehmer umsetzen lassen.  Vielleicht übernimmt der Architekt die Bauleitung, aber er wird aber wohl kaum selber mauern.
-
-Ein Architekt ist einem Digitalkonzepter recht ähnlich. Die Architektur beschäftigt sich mit der Planung, dem Entwerfen und der Gestaltung von allen möglichen Bauwerken. Und wir Planen, Entwerfen und Gestalten alle Möglichen Digitalen Produkte.
-
-Die möglichen Studienfächer im Rahmen einen Architekturstudiums: Entwerfen, Darstellungstechnik, Gebäudekunde, Geschichte der Architektur bzw. Bau- und Kunstgeschichte, Architekturtheorie, Baukonstruktion, Baumanagement, Bauchemie oder Baustoffkunde, Bauphysik, Haustechnik, Tragwerkslehre oder Baustatik im Bereich Betonbau, Holzbau, Stahlbau, sowie Städtebau und Bauleitplanung, Baurecht, Freiraum- und Landschaftsplanung oder auch Innenraumplanung.
-
-{{++ Vgl. Gebäude entwerfen: Grundlagen, Methoden, Arbeitshilfen: http://www.amazon.de/Gebäude-entwerfen-Grundlagen-Methoden-Arbeitshilfen/dp/3421036675/ ++}}
-
-{{++ Vgl. Architekten mauern keine Wände und Softwarearchitekten programmieren nicht: http://www.softwarearchitektur.de/?p=80
-
-Der Softwarearchitekt muß daher Programmcode lesen können, mit der Entwicklungsumgebung umgehen können
-Neben der Anforderung an den Architekten, das laufende System zu verstehen um es modellieren zu können, benötigt er seine Programmierkentnisse auch, um seine Rolle im Team wahrnehmen zu können.
-Neben der Anforderung an den Architekten, das laufende System zu verstehen um es modellieren zu können, benötigt er seine Programmierkentnisse auch, um seine Rolle im Team wahrnehmen zu können.
-
-
-- Der Architekt sollte verstehen, welche von anderen vorgeschlagene Komponenten zur Architektur des Gesamtsystems passen
-- Der Architekt sollte Code anderer beurteilen können
-
-Es ist klar, daß der Architekt nicht zu hundert Prozent mit Programmieraufgaben verplant sein darf. Er muß diese aber zumindest übernehmen können. Er muß in der Lage sein, mit anderen als “Pair” an einem neuen Thema arbeiten können. Er muß Fehlermeldungen der Kunden auf den aktuellen Code beziehen und gemeinsam mit anderen Lösungsansätze erarbeiten können. Vielleicht beschränkt sich seine Programmiertätigkeit im Projekt auf die Erstellung von Prototypen; wichtig ist aber, daß er Programmieren kann und von allen Teammitgliedern auch in dieser Rolle als Autorität wahrgenommen wird. Nur dann werden die Entwickler bei schwierigen Fragestellungen, und vor allem wenn sie vom ursprünglichen Entwurf abweichen wollen, das Gespräch mit dem Softwarearchitekten suchen. 
-++}}
 
 # Github
 Dieses Buch entsteht auf Github und deshalb kann man alle [Änderungen](https://github.com/jonas28/digitalkonzept/commits/master) mitverfolgen.
@@ -59,4 +39,6 @@ Und natürlich kann man auch mitmachen. Github bietet die Möglichkeit sich an I
 Wenn ihr möchtet, dass ich eine bestimmte Änderung in der Buch aufnehme, könnt ihr ein [Pullrequest bei Github](https://github.com/jonas28/digitalkonzept/pulls) stellen.
 
 ## Github Forks
-Ihr könnt die Inhalte dieses Buches an Prozesse eures Unternehmens anpassen. Dazu müsst ihr einfach das Repository auf Github forken.
+Ihr könnt die Inhalte dieses Buches an Prozesse eures Unternehmens anpassen und einfache eine eigene Version erstellen. Dazu müsst ihr einfach das Repository auf Github forken.
+
+{{++ Recherchieren wie das Lizenztechnisch läuft. ++}}
