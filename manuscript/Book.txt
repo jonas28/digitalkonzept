@@ -81,6 +81,7 @@ Tools/Google-Analytics.md
 Tools/Mailchimp
 Tools/Mandrill
 Tools/Hubspot.md
+Cases/Cases.md
 Inspiration/Inspiration.md
 Inspiration/Dribble.md
 Inspiration/GoodUXBadUX.md
