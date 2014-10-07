@@ -1,5 +1,3 @@
--# Learn to Code
-
 # Muss ich als Digital Konzepter programmieren können?
 
 Stell dir vor, daß du einen Architekten beauftragst, ein Haus für dich zu bauen und dann stellst du fest, daß er auch das Fundament gießt und die Wände mauert? Klingt irgendwie komisch, oder? Wahrscheinlich wird er den Entwurf eher durch einen Bauunternehmer umsetzen lassen.  Vielleicht übernimmt der Architekt die Bauleitung, aber er wird aber wohl kaum selber mauern.
@@ -28,25 +26,3 @@ Konzepte entstehen nicht im luftleeren Raum. Ein Konzepter sollte einschätzen k
 Am 15. November ist es möglicherweise unrealistisch einen aufwendigen Adventskalender bis zum erstem Dezember zu launchen, wenn man nur einen Entwickler und 5.000 € zur Verfügung hat. Logischerweise muss man das Konzept entsprechend anpassen.
 
 Die Entwicklungkosten hängen vor allem von der benötigten Umsetzungs Zeitzab. Deshalb ist es wichtig ein Bauchgefühl zu entwickle, welche Features, wie aufwendig sind. Dafür muss man nicht selber programmieren können, aber zumindest grundsätzliches technisches Verständnis.
-
-
-
-# Tutorials
-## Codeacademy
-## Treehouse
-
-# Sprachen
-## html
-## css
-## javascript
-## php
-## Objective C
-## Swift
-
-# Frameworks
-## Bootstrap
-## Angular
-
-# Content-Management-Systeme
-## Wordpress
-## Drupal

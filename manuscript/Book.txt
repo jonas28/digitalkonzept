@@ -1,5 +1,7 @@
 Einleitung.md
-autor.md
+Autor/Persona.md
+Autor/Prägende-Dinge.md
+Autor/Stationen.md
 Methoden/Scrum.md
 Methoden/5-mal-Warum.md
 Methoden/Agile.md
@@ -85,5 +87,18 @@ Inspiration/allfacebook.md
 Inspiration/mobiledevmemo.md
 Redaktionskonzept.md
 Anzeigen.md
-LearnToCode.md
+Coding/coding.md
+Coding/Codeacademy.md
+Coding/Treehouse.md
+Coding/HTML.md
+Coding/CSS.md
+Coding/javascript.md
+Coding/php.md
+Coding/Objective C.md
+Coding/Swift.md
+Coding/Wordpress.md
+Coding/Drupal.md
+Coding/Angular.md
+Coding/Bootstrap.md
+
 
