@@ -1,3 +1,3 @@
 # Eva
 
-![](images/Autoren/Eva.png)
+![](images/Autoren/Eva.jpg)
