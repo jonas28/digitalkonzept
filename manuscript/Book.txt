@@ -35,6 +35,7 @@ Methoden/Scrum.md
 Methoden/Shadowing.md
 Methoden/The-Idea-in-a-Nutshell.md
 Methoden/Umfragen.md
+Methoden/UML.md
 Methoden/Userstories.md
 Methoden/Viral-Loop.md
 Methoden/inneres-Konzeptteam.md
