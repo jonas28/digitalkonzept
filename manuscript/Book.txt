@@ -12,6 +12,7 @@ Methoden/Design-Thinking.md
 Methoden/Gamification.md
 Methoden/Incentivierung.md
 Methoden/Interactive-Storytelling.md
+Methoden/Lean-Publishing.md
 Methoden/Interviews.md
 Methoden/KPIs.md
 Methoden/Lean.md
@@ -85,8 +86,6 @@ Inspiration/Pitchenvy.md
 Inspiration/Schreibdiletanten.md
 Inspiration/allfacebook.md
 Inspiration/mobiledevmemo.md
-Redaktionskonzept.md
-Anzeigen.md
 Coding/coding.md
 Coding/Codeacademy.md
 Coding/Treehouse.md
@@ -100,5 +99,6 @@ Coding/Wordpress.md
 Coding/Drupal.md
 Coding/Angular.md
 Coding/Bootstrap.md
+Ads/Anzeigen.md
 
 
