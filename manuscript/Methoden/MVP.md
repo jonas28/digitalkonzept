@@ -9,3 +9,7 @@ Das Minimum Feaute Set
 {{++siehe auch: http://steveblank.com/2010/03/04/perfection-by-subtraction-the-minimum-feature-set/++}}
 
 ## MDP
+
+{{++ [http://www.startupblender.com/minimum-viable-product-vs-minimum-delightful-product/][1] ++}}
+
+[1]:	http://www.startupblender.com/minimum-viable-product-vs-minimum-delightful-product/

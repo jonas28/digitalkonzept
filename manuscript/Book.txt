@@ -18,6 +18,7 @@ Methoden/Scrum.md
 Methoden/5-mal-Warum.md
 Methoden/Agile.md
 Methoden/Businessmodel-Canvas.md
+Methoden/Content-is-King.md
 Methoden/Content-Excellence.md
 Methoden/Customer-Journey.md
 Methoden/Design-Thinking.md
@@ -46,6 +47,7 @@ Methoden/Viral-Loop.md
 Methoden/inneres-Konzeptteam.md
 Tools/Tools.md
 Tools/Asana.md
+Tools/Axenture.md
 Tools/Balsamiq-Mockups.md
 Tools/Basecamp.md
 Tools/Copyless.md
@@ -79,6 +81,7 @@ Tools/Scrivener.md
 Tools/Sublime-Text.md
 Tools/Terminal.md
 Tools/Trello.md
+Tools/Ulysses.md
 Tools/Write.md
 Tools/Writer-Pro.md
 Tools/Wunderlist.md
@@ -86,14 +89,21 @@ Tools/briefscase.md
 Tools/hopscotch.md
 Tools/instapaper.md
 Tools/klout.md
+Tools/scompler.md
 Tools/social-Bench.md
 Tools/surveymonkey.md
 Tools/Google-Maps-Api.md
 Tools/Mapbox.md
 Tools/Google-Analytics.md
-Tools/Mailchimp
-Tools/Mandrill
+Tools/Mailchimp.md
+Tools/Mandrill.md
 Tools/Hubspot.md
+Tools/Sketch.md
+Tools/Quiver.md
+Tools/woopra.md
+Tools/Pixate.md
+Tools/XCode.md
+Tools/adjust.md
 Cases/Cases.md
 Inspiration/Inspiration.md
 Inspiration/Dribble.md

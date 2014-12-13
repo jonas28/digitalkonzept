@@ -10,7 +10,7 @@ Damit in selbstgebauten Level auch etwas passierte, konnte man im Leveleditor Ob
 
 {++ php if schleife hinzufügen ++}
 
-Ich wollte ein Western-Shooter bauen, dementsprechend musste ich irgendwie die futuristischen Waffen von Duke austauschen. Dazu musste ich Grafiken freistellen und den Hintergrund rosa einfärben, damit die Engine erkannte, dass diese Bereich transparent sein sollte. Und so hatte ich bei der Arbeit an meinem Mod die erste Berührung mit Photoshop. 
+Ich wollte einen Western-Shooter bauen, dementsprechend musste ich irgendwie die futuristischen Waffen von Duke austauschen. Dazu musste ich Grafiken freistellen und den Hintergrund rosa einfärben, damit die Engine erkannte, dass diese Bereich transparent sein sollte. Und so hatte ich bei der Arbeit an meinem Mod die erste Berührung mit Photoshop. 
 
 {++ Screenshot hinzufügen++ }
 

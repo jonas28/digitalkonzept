@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Beispiele.md</string>
+		</array>
+		<array>
+			<string>Beruftsbild.md</string>
+		</array>
+		<array>
+			<string>Einleitung.md</string>
+		</array>
+		<array>
+			<string>Erwartungen.md</string>
+		</array>
+		<array>
+			<string>Mitmachen.md</string>
+		</array>
+		<array>
+			<string>Remixen.md</string>
+		</array>
+		<array>
+			<string>Wollmichsau.md</string>
+		</array>
+	</array>
+</dict>
+</plist>
